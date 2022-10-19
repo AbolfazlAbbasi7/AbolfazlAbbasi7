@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Abolfazl Abbasi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, Im Abolfazl Abbasi From Iran
+✨ My skills
+🥇 C# : WPF, ASP.NET MVC and Core
+🥈 JavaScript
+🥉 HTML / CSS / Bootstarp
 
 <!---
 AbolfazlAbbasi7/AbolfazlAbbasi7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
