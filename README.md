@@ -1,6 +1,6 @@
 <ul>
     <li>👋 Hi, Im Abolfazl Abbasi From Iran</li>
-    <li>✨ My skills
+    <li>✨ My skills : 
         <ul>
             <li>🥇 C# : WPF, ASP.NET MVC and Core</li>
             <li>🥇 JavaScript</li>
